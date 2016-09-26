@@ -1,2 +1,2 @@
-# Phylogenomics
-Storage for scripts using in phylogenomics and comparative genomics
+# BBH-Orthology finding
+A set of Perlscripts for Orthology finding across species using best reciprocal blast hit (BBH) method.
